@@ -1,5 +1,5 @@
 # E-Commerce-Clone-demo 
-Technologies: HTML5, CSS3 (Flexbox / Grid). 
+Technologies: HTML5, CSS3 (Flexbox/Grid). 
 <br>
 Developed a pixel-perfect recreation of the Amazon homepage, focusing on visual accuracy 
 and structural integrity. 
@@ -9,5 +9,8 @@ bar and product layouts.
 <br>
 Implemented Hover Effects and CSS Selectors to enhance user interaction and mimic the 
 original site UI/UX. 
+=======
+original site’s UI/UX. 
+>>>>>>> ff0733abcabde34fcf1e8d863c6f2492acf5bd5c
 <br>
 Focused on writing Semantic HTML to ensure the website is accessible and SEO-friendly.
