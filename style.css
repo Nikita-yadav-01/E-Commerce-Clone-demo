@@ -2,6 +2,7 @@
     margin: 0;
     font-family: Arial;
     border: border-box;
+}
 
 /* box1 amazon logo */
 
@@ -257,11 +258,10 @@ ul a {
     height: 75px;
     font-size: 0.7rem;
     text-align: center;
-}
     /* display: flex;
     justify-content: center;
     align-items: center; */
-
+}
 
 .pages {
     padding-top: 25px ;
